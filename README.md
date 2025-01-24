@@ -25,7 +25,7 @@ Make sure you have the following installed:
 ## Setup Instructions
 Follow these steps to set up and run the project:
 
-### Step 1: Download this Folder of  Project
+### Step 1: Clone this repository
 Organized as:
 ```
 invest4edu/
